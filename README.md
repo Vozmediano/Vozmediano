@@ -9,6 +9,8 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/@charliepages5325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@charliepages5325" height="30" width="40" /></a>
 </p>
 
+-------------------------
+
 <h3 align="left">🛠 Language and tools</h3>
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
@@ -33,7 +35,6 @@
 <a href="https://slack.com/intl/es-es" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/> </a> -->
 </p>
 
-
-
+------------------------
 
 # ![Badge LENGUAJE](https://img.shields.io/badge/AWS-CERTIFIED-red?style=flat&logo=amazonwebservices&logoColor=white&logoSize=auto) ![Badge LENGUAJE](https://img.shields.io/badge/APPLE-ESPECIALIST-blue?style=flat&logo=apple&logoColor=white&logoSize=auto) ![Badge LENGUAJE](https://img.shields.io/badge/MADRID-STUDENT-yellow?style=flat&logo=42&logoColor=white&logoSize=auto) ![Badge FINALIZADO](https://img.shields.io/badge/STATUS-DEVELOPER-green)  ![Badge DISFRUTALO](https://img.shields.io/badge/ENJOY-8A2BE2)
