@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Carlos Vozmediano</h1>
 <h3 align="center">A passionate backend developer from Spain</h3>
 
+Hello, I’m Carlos, a backend developer and student of artificial intelligence and data science. I am certified in Amazon Web Services as a cloud technician. In my repositories, you will find several tutorials that have been very helpful in my learning journey, and I hope they help you as well. Additionally, there are a couple of projects on chatbots and machine learning for skin cancer detection.
+
 - 📫 How to reach me **carlosvozmedianotorres@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
