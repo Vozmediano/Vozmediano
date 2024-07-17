@@ -4,13 +4,13 @@
 Hello, I’m Carlos, a backend developer and student of artificial intelligence and data science. I am certified in Amazon Web Services as a cloud technician. In my repositories, you will find several tutorials that have been very helpful in my learning journey, and I hope they help you as well. Additionally, there are a couple of projects on chatbots and machine learning for skin cancer detection.
 
 - 📫 How to reach me **carlosvozmedianotorres@gmail.com**
-
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/carlos-vozmediano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos-vozmediano" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@charliepages5325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@charliepages5325" height="30" width="40" /></a>
 </p>
-
+-->
 -------------------------
 
 <h3 align="left">🛠 Language and tools</h3>
